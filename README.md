@@ -38,7 +38,9 @@ But that’s how learning works, right?
 🌏 I speak **Mandarin, English, French, and Japanese**  
 ⛰ I like climbing mountains  
 - Last one: **Mount Fuji (3776m)**  
-- Next goal: **Mount Everest Basecamp** (not the summit… yet)  
+- Next goal: **Mount Everest Basecamp** (not the summit… yet)
+
+🏊 I swim all four strokes(butterfly is my fav)
 
 ✈️ I've been to 8 countries — guess the flags:  
 🇨🇦 → 🇨🇳 🇸🇬 🇹🇭 🇯🇵 🇮🇸 🇵🇪 🇨🇺 🇲🇽  
