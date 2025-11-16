@@ -1,6 +1,6 @@
 <!-- 🌟 banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jujuz455/jujuz455/main/banner.png" width="80%" />
+  <img src="https://github.com/jujuz455/jujuz455/blob/main/Banner.png" width="20%" />
 </p>
 
 <!-- 🌟 Glowing Title -->
