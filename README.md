@@ -33,25 +33,30 @@ But that’s how learning works, right?
 ---
 
 ## ✨ Random Facts About Me  
-🌱 I just started coding, and I’m starting to really like it  
-🎤 I love **DECO*27 + Hatsune Miku**  
-🌏 I speak **Mandarin, English, French, and Japanese**  
-⛰ I like climbing mountains  
-- Last one: **Mount Fuji (3776m)**  
-- Next goal: **Mount Everest Basecamp** (not the summit… yet)
+<details>
+  <summary><strong>Click to reveal some fun facts about me 💫</strong></summary>
+  <br>
 
-🏊 I swim all four strokes(butterfly is my fav)
+  🌱 I just started coding, and I’m starting to really like it  
+  🎤 I love **DECO*27 + Hatsune Miku**  
+  🌏 I speak **Mandarin, English, French, and Japanese**  
+  ⛰ I like climbing mountains  
+  - Last one: **Mount Fuji (3776m)**  
+  - Next goal: **Mount Everest Basecamp** (not the summit… yet)
 
-✈️ I've been to 8 countries — guess the flags:  
-🇨🇦 → 🇨🇳 🇸🇬 🇹🇭 🇯🇵 🇮🇸 🇵🇪 🇨🇺 🇲🇽  
+  🏊 I swim all four strokes (butterfly is my fav)
 
-🦁 Next destination: **Tanzania** (animal crossing IRL)  
-🎭 I studied **Noh** theatre (the eerie mask one)  
-🌸 Probably an **INFP**  
-📸 Just in case I don't find a job in tech…  
-follow my IG for my travel-vlogger arc lol 📹✨
+  ✈️ I've been to 9 countries — guess the flags:  
+  🇨🇦 → 🇨🇳 🇸🇬 🇹🇭 🇯🇵 🇮🇸 🇵🇪 🇨🇺 🇲🇽 🇰🇷
 
----
+  🦁 Next destination: **Tanzania** (animal crossing IRL)  
+  🎭 I studied **Noh** theatre  
+  🌸 Probably an **INFP**  
+  📸 Just in case I don't find a job in tech…  
+  follow my IG for my travel-vlogger arc lol 📹✨
+
+</details>
+
 
 ## 🌐 Connect with Me  
 <p align="center">
