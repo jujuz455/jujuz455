@@ -18,10 +18,10 @@
 
 ## 👩🏻‍💻 About Me  
 I'm a 3rd year Computer Science student @ Carleton University,  
-streaming in **AI & Machine Learning**.
+streaming in AI & Machine Learning.
 
-I like building things — and breaking things (accidentally) 😭💻  
-But that’s how learning works, right?
+I like building things ... and breaking things (accidentally) 💻  
+
 
 ---
 
@@ -32,12 +32,12 @@ But that’s how learning works, right?
 
 ---
 
-## ✨ Random Facts About Me  
+## 💙 Random Facts About Me  
 <details>
-  <summary><strong>Click to reveal some fun facts about me 💫</strong></summary>
+  <summary><strong>Click to reveal some fun facts about me ◝‿◜ </strong></summary>
   <br>
 
-  🌱 I just started coding, and I’m starting to really like it  
+  💻 I just started coding, and I’m starting to really like it  
   🎤 I love **DECO*27 + Hatsune Miku**  
   🌏 I speak **Mandarin, English, French, and Japanese**  
   ⛰ I like climbing mountains  
