@@ -34,7 +34,7 @@ I like building things ... and breaking things (accidentally) 💻
 
 ## 💙 Random Facts About Me  
 <details>
-  <summary><strong>Click to reveal some fun facts about me ◝‿◜ </strong></summary>
+  <summary><strong>Click to reveal  ◝‿◜ </strong></summary>
   <br>
 
   💻 I just started coding, and I’m starting to really like it  
