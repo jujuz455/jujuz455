@@ -46,8 +46,8 @@ I like building things ... and breaking things (accidentally) 💻
 
   🏊 I swim all four strokes (butterfly is my fav)
 
-  ✈️ I've been to 9 countries — guess the flags:  
-  🇨🇦 → 🇨🇳 🇸🇬 🇹🇭 🇯🇵 🇮🇸 🇵🇪 🇨🇺 🇲🇽 🇰🇷
+  ✈️ I've been to 10 countries — guess the flags:  
+  🇨🇦 → 🇨🇳 🇸🇬 🇹🇭 🇯🇵 🇮🇸 🇵🇪 🇨🇺 🇲🇽 🇰🇷🇫🇷
 
   🦁 Next destination: **Tanzania** (animal crossing IRL)  
   🎭 I studied **Noh** theatre  
