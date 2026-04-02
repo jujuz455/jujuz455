@@ -16,11 +16,14 @@
 
 ---
 
-## 👩🏻‍💻 About Me  
+## About Me  
 I'm a 3rd year Computer Science student @ Carleton University,  
-streaming in AI & Machine Learning.
+Streaming in AI & Machine Learning.
 
-I like building things ... and breaking things (accidentally) 💻  
+## Interests
+- Algorithm design and problem solving
+- Computer Vision and Deep Learning
+- Machine Learning
 
 
 ---
@@ -34,7 +37,7 @@ I like building things ... and breaking things (accidentally) 💻
 
 ## 💙 Random Facts About Me  
 <details>
-  <summary><strong>Click to reveal  ◝‿◜ </strong></summary>
+  <summary><strong>Click to reveal  :P  </strong></summary>
   <br>
 
   💻 I just started coding, and I’m starting to really like it  
@@ -70,9 +73,7 @@ I like building things ... and breaking things (accidentally) 💻
 
 ---
 
-<p align="center">
-  <em style="color:#39c5bb;">Thanks for visiting 💙 May your code compile on the first try ✨</em>
-</p>
+
 
 
 <picture>
