@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/jujuz455/jujuz455/blob/main/Banner.png" width="20%" />
-</p>
+
 
 <h1 align="center">
   <span style="color:#39c5bb; text-shadow: 0 0 10px #39c5bb, 0 0 20px #39c5bb;">
