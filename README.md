@@ -32,7 +32,7 @@ Visit my website! [runchenzhao.vercel.app](https://runchenzhao.vercel.app)
 
 ## Connect with Me  
 <p align="left">
-  <a href="https://www.instagram.com/juliereeeeeeee/" target="_blank">
+  <a href="https://www.instagram.com/runchen_z/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-39c5bb?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/zhao-runchen-941a3b387/" target="_blank">
